@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pizzahut</string>
+    <string name="story">Pizza Hut is an American restaurant chain and international franchise founded in 1958 by Dan and Frank Carney</string>
+    <string name="phone">phone</string>
+    <string name="address">address</string>
+    <string name="website">website</string>
+    <string name="rating">rating</string>
+    <string name="nophone">01555522552</string>
+    <string name="noaddress">25.5 km · Tanta</string>
+    <string name="nowebsite">https://www.pizzahut.com/</string>
+</resources>
